@@ -14,11 +14,11 @@
   ],
   "command": {
     "publish": {
-      "message": "chore: publish %s",
+      "message": "chore(release): publish %s",
       "graphType": "all"
     },
     "version": {
-      "message": "chore: publish %s",
+      "message": "chore(release): publish %s",
       "exact": true
     }
   }
