@@ -1,0 +1,59 @@
+{
+  "name": "@sspingme/superset-ui-preset-deckgl",
+  "version": "0.0.0",
+  "description": "Preset for Superset - Deck.gl",
+  "sideEffects": false,
+  "main": "lib/index.js",
+  "module": "esm/index.js",
+  "files": [
+    "esm",
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonnytoshen/superset-ui-plugins.git"
+  },
+  "keywords": [
+    "superset",
+    "deck.gl",
+    "map"
+  ],
+  "author": "Jonny <jonnytoshen@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Jonnytoshen/superset-ui-plugins/issues"
+  },
+  "homepage": "https://github.com/Jonnytoshen/superset-ui-plugins#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@math.gl/web-mercator": "^3.2.2",
+    "@superset-ui/chart-controls": "^0.17.41",
+    "@superset-ui/core": "^0.17.40",
+    "@types/d3-array": "^2.0.0",
+    "bootstrap-slider": "^10.0.0",
+    "d3-array": "^1.2.4",
+    "d3-color": "^1.4.1",
+    "d3-scale": "^3.0.0",
+    "deck.gl": "^8.5.2",
+    "jquery": "^3.4.1",
+    "lodash": "^4.17.15",
+    "mapbox-gl": "^1.0.0",
+    "moment": "^2.20.1",
+    "mousetrap": "^1.6.1",
+    "prop-types": "^15.6.0",
+    "react-bootstrap-slider": "^2.1.5",
+    "react-map-gl": "^5.0.3",
+    "underscore": "^1.8.3",
+    "urijs": "^1.18.10",
+    "xss": "^1.0.6"
+  },
+  "peerDependencies": {
+    "react": "^16.13.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.0",
+    "jest": "^26.0.1"
+  }
+}
