@@ -1,6 +1,6 @@
 {
   "name": "@sspingme/superset-ui-preset-deckgl",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Preset for Superset - Deck.gl",
   "sideEffects": false,
   "main": "lib/index.js",
