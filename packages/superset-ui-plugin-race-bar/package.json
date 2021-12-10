@@ -1,6 +1,6 @@
 {
   "name": "@sspingme/superset-ui-plugin-race-bar",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Plugin for Superset - Bar Race of ECharts ",
   "sideEffects": false,
   "main": "lib/index.js",
