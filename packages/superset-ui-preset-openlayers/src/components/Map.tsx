@@ -3,7 +3,6 @@ import React, {
   useEffect,
   createRef,
   createContext,
-  ReactChild,
   PropsWithChildren,
 } from 'react';
 import OlMap from 'ol/Map';

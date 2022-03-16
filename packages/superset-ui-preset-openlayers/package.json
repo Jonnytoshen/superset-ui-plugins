@@ -1,6 +1,6 @@
 {
   "name": "@sspingme/superset-ui-preset-openlayers",
-  "version": "0.0.0",
+  "version": "0.2.0",
   "description": "Preset for Superset - Openlayers",
   "sideEffects": false,
   "main": "lib/index.js",
@@ -32,9 +32,9 @@
     "@ant-design/icons": "^4.7.0",
     "@superset-ui/chart-controls": "^0.17.41",
     "@superset-ui/core": "^0.17.40",
-    "ol": "^6.13.0",
     "lodash": "^4.17.21",
-    "lodash-es": "^4.17.21"
+    "lodash-es": "^4.17.21",
+    "ol": "^6.13.0"
   },
   "peerDependencies": {
     "antd": "^4.9.4",

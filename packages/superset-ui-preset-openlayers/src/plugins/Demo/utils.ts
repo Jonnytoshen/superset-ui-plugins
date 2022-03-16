@@ -5,7 +5,6 @@ import Stroke from 'ol/style/Stroke';
 import Text from 'ol/style/Text';
 import Fill from 'ol/style/Fill';
 import Icon from 'ol/style/Icon';
-import { ColorLike } from 'ol/colorlike';
 
 import photothermalIcon from './images/photothermal.png';
 import photovoltaicIcon from './images/photovoltaic.png';

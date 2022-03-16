@@ -19,7 +19,7 @@
 import React, { MouseEventHandler, ReactNode } from 'react';
 import { useTheme } from '@superset-ui/core';
 import { Tooltip } from 'antd';
-import { CheckOutlined, InfoCircleFilled } from '@ant-design/icons';
+import { InfoCircleFilled } from '@ant-design/icons';
 
 export interface PopoverSectionProps {
   title: string;

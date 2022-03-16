@@ -1,10 +1,5 @@
 import { t, validateNonEmpty } from '@superset-ui/core';
-import {
-  columnChoices,
-  ControlPanelConfig,
-  ControlValueValidator,
-  sharedControls,
-} from '@superset-ui/chart-controls';
+import { columnChoices, ControlPanelConfig } from '@superset-ui/chart-controls';
 import { mapStyle, spatial } from '../../utils/controls';
 import ViewportControl, {
   DEFAULT_VIEWPORT,
